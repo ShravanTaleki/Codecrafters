@@ -9,4 +9,4 @@ cd job_application
 pip install -r requirements.txt
 python manage.py runserver
 
-[Screen Recording] https://drive.google.com/drive/u/2/folders/1WpjsTrxrHl7cQuACt8UMFwFGbfMvdV0C
+[Screen Recording] https://drive.google.com/drive/u/2/folders/1ICeE2fzna6HIlE5x_o_VD1NUpS-N1y1W
